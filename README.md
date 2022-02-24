@@ -3,8 +3,8 @@
 ## Ed Adeagbo
 ## Fetching API Data
 
-[Link to GH Repo]
-[Link to GH Live Page]
+[Link to GH Repo](https://github.com/ykEddie/cpnt262-rest-api)
+[Link to GH Live Page](https://ykeddie.github.io/cpnt262-rest-api/)
 
 ## Attributions 
 
